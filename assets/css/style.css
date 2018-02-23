@@ -1,0 +1,155 @@
+.jumbotron {
+background-color: #b380ff;
+}
+
+h1 {
+color: white;
+text-align: center;
+
+}
+.questionspace {
+
+	height: 700px;
+	background-color: black;
+	
+}
+
+body {
+	/* background-image: url("../images/argyle2.png"); */
+	background-color: black;
+}
+
+.timeleft {
+	background-color: black;
+	color: white;
+	margin: 0px 0px 0px 20px;
+}
+
+#instructions {
+color: white;
+	text-align: center;
+	font-size: 40px;
+}
+
+#startbtn {
+	background-color: #4CAF50; 
+	border: none;
+	color: white;
+	padding: 14px 40px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#tryagainbtn {
+	background-color: rgb(218, 10, 10); 
+	border: none;
+	color: white;
+	padding: 14px 40px;
+	text-align: center;
+	text-decoration: none;
+
+	font-size: 16px;
+}
+
+#timer {
+	font-size: 25px;
+	text-align: center;
+	color:white;
+}
+
+#results {
+	border-radius: 25px;
+	height: 300px;
+	width: 75%;
+	background-color: white;
+	color:white;
+	font-size: 40px;
+	text-align: center;
+	margin: auto;
+}
+
+
+.solution {
+height: 60px;
+}
+
+
+#question {
+	color:white;
+}
+
+
+#answer1 {
+	padding-top: 10px;
+	font-size: 25px;
+	/* margin-top: 30px; */
+	color: white;
+	/* background-color: green; */
+	text-align: center;
+}
+
+#answer2 {
+	padding-top: 10px;
+	font-size: 25px;
+	color: white;	
+	/* background-color: red; */
+	text-align: center;
+	
+}
+
+#answer3 {
+	padding-top: 10px;
+	font-size: 25px;
+	color: white;	
+	/* background-color: blue; */
+	text-align: center;
+	
+}
+
+#answer4 {
+	padding-top: 10px;
+	font-size: 25px;
+	color: white;	
+	/* background-color: orangered; */
+	text-align: center;
+	
+}
+
+#results2 {
+	/* margin-bottom: 100px; */
+	/* color:black; */
+}
+
+#results3 {
+	/* color:black; */
+}
+
+#score {
+	font-size: 40px;
+}
+
+#incorrect {
+	font-size: 20px;
+}
+
+#fancy {
+	font-family: 'Meie Script', cursive;
+}
+
+#right {
+	height: 250px;
+	width: 250px;
+	background-image: url("../images/correct2.png");
+	text-align: center;
+}
+
+#wrong {
+	text-align: center;
+	height: 300px;
+	width: 300px;
+	background-image: url("../images/nope.png");
+	
+}
+
