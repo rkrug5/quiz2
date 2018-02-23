@@ -64,9 +64,20 @@ color: white;
 	height: 300px;
 	width: 75%;
 	background-color: white;
-	color:white;
+	/* color:black; */
 	font-size: 40px;
 	text-align: center;
+	margin: auto;
+}
+
+#results2 {
+	border-radius: 25px;
+	height: 300px;
+	width: 75%;
+	background-color: white;
+	color:black;
+	font-size: 40px;
+	/* text-align: center; */
 	margin: auto;
 }
 
@@ -119,18 +130,17 @@ height: 60px;
 
 #results2 {
 	/* margin-bottom: 100px; */
-	/* color:black; */
+	color:black;
 }
 
-#results3 {
-	/* color:black; */
-}
 
 #score {
+	color:black;
 	font-size: 40px;
 }
 
 #incorrect {
+	color:black;
 	font-size: 20px;
 }
 
